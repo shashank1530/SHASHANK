@@ -9,7 +9,8 @@ Elevator Pitch:
 
 To secure the organ donor’s medical records using data encryption until his/her demise and then delegate access to concerned authorities using NuCypher’s PRE network and Shamis’s Secret Sharing Scheme.
 
-HOW TO START:- 
+HOW TO START:- Go into flask umbral and download app.py. U wont face any problem starting the project. 
+
 What it solves:
 
 In 2017, Personal details of over 200,000 Malaysian organ donors and their next of kin have been leaked, with the data available online for over a year. Leaked data includes the donor’s name, identification card number, race, nationality, address, and phone numbers. The data also contains details of each organ donor’s one nominated next of kin, taking the total number of data leak victims to 440,000 (https://today.mims.com/latest-data-breach-of-organ-donors-forces-organisations-to-heighten-security-measures).
