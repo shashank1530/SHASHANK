@@ -9,6 +9,8 @@ In 2017, Personal details of over 200,000 Malaysian organ donors and their next 
 
 This application helps organ donors to safely and anonymously store their medical records using data encryption on a decentralized platform like IPFS until their demise and then delegate access of their data, to their trustee/s as well as to the concerned authorities like Hospitals, which may perform organ transplant after certain verifications.
 
+testing
+
 Scenario:
 Let’s say Alice wants to donate her organs after her demise. She collects all the necessary documents like Identity Proofs, Medical check-ups, Official Organ Donation documents etc and encrypts the data using her private key [P(A)], and then encrypted data will be uploaded on IPFS storage. Using NuCypher’s Policy Protocol, Alice will be able to write a policy statement granting access to all the medical data related to organ donation to a Medical Institution. Alice’s Identity will always remain anonymous in the network.
 Using Shamir’s Secret Sharing Scheme, Alice will divide her private key [P(A)] into 2 sub-keys [P(A1)] and [P(A2)] and hand it over to her trustees say, Bob and Carel. So that after Alice's death, Bob and Carel together can take in charge of the medical documents and grant access for Alice’s data to a Medical Institution so that all the procedures of organ transplant can be executed on time (before the body starts decomposing). And also Bob and Carel cannot individually access/tamper Alice’s data using sub-keys. So Secret Sharing solves the problem of data tampering after Alice's death.
