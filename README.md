@@ -1,8 +1,15 @@
-Elevator Pitch:
+PROJECT NAME:- A proxy re-encryption based organ donation system
+
+ABSTRACT:- Building an organ donation system that satisfies the privacy, confidentiality, and security requirements of healthcare records and private data of donors have always been a challenge in the digital world.
+
+Cryptographic technology is an exciting technological advancement in information technology. NuCypher’s Proxy Re-Encryption (PRE) Scheme is a distributed and decentralized cryptologic network providing intuitive, accessible, and extensible interfaces as well as runtime for private data management as well as access control dynamically. This project outlines the Umbral Proxy Re-Encryption scheme, as used by NuCypher KMS. Umbral is a threshold proxy re-encryption scheme following a Key Encapsulation Mechanism (KEM) approach. This project aims to evaluate the application of NuCypher’s Proxy Re-Encryption Scheme to implement the privacy, security, and confidentiality aspects of organ donation systems. The project elucidates the requirement of securing the healthcare records and private data security and confidentiality in organ donation and identifies the legal and technological limitations of existing healthcare systems and how proposed solutions help to overcome such limitations.
+
+
+Elevator Pitch: 
 
 To secure the organ donor’s medical records using data encryption until his/her demise and then delegate access to concerned authorities using NuCypher’s PRE network and Shamis’s Secret Sharing Scheme.
 
-
+HOW TO START:- 
 What it solves:
 
 In 2017, Personal details of over 200,000 Malaysian organ donors and their next of kin have been leaked, with the data available online for over a year. Leaked data includes the donor’s name, identification card number, race, nationality, address, and phone numbers. The data also contains details of each organ donor’s one nominated next of kin, taking the total number of data leak victims to 440,000 (https://today.mims.com/latest-data-breach-of-organ-donors-forces-organisations-to-heighten-security-measures).
