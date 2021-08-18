@@ -9,7 +9,6 @@ In 2017, Personal details of over 200,000 Malaysian organ donors and their next 
 
 This application helps organ donors to safely and anonymously store their medical records using data encryption on a decentralized platform like IPFS until their demise and then delegate access of their data, to their trustee/s as well as to the concerned authorities like Hospitals, which may perform organ transplant after certain verifications.
 
-testing
 
 Scenario:
 Let’s say Alice wants to donate her organs after her demise. She collects all the necessary documents like Identity Proofs, Medical check-ups, Official Organ Donation documents etc and encrypts the data using her private key [P(A)], and then encrypted data will be uploaded on IPFS storage. Using NuCypher’s Policy Protocol, Alice will be able to write a policy statement granting access to all the medical data related to organ donation to a Medical Institution. Alice’s Identity will always remain anonymous in the network.
