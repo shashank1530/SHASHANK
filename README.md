@@ -26,3 +26,10 @@ Using Shamir’s Secret Sharing Scheme, Alice will divide her private key [P(A)]
 Challenges:
 
 Understanding and going through the codebase of NuCypher and the demos they supplied was a challenging task but we are proud to be able to have implemented the architecture that allowed us to perform off the chain decryption based on a condition stored on-chain.
+![image](https://user-images.githubusercontent.com/85033197/129973439-9934e7e6-f999-4e98-aca4-89ff04a1e9e1.png)
+![image](https://user-images.githubusercontent.com/85033197/129973471-89966c32-5fa1-4516-843a-b253cbfd52e3.png)
+![image](https://user-images.githubusercontent.com/85033197/129973493-c95cdc85-db6d-4489-bb03-aa0b07dd3229.png)
+![image](https://user-images.githubusercontent.com/85033197/129973509-c55b18cf-97de-4c92-9d0a-43d728660636.png)
+![image](https://user-images.githubusercontent.com/85033197/129973525-127a84fb-edc7-4bad-b179-82bda6d4a36a.png)
+
+
